@@ -1,0 +1,11 @@
+1. Apa itu CSS Framework?
+Jawab : CSS fremework adalah sebuah hasil formula code suatu website yang telah siap digunakan sehingga akan membantu programmer agar tidak membuat formula css baru dari awal
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+Jawab : Tidak, ada banyak framework css yang dapat digunakan 
+3. Sebutkan beberapa CSS Framework selain Bootstrap
+Jawab : foundation, bulma, semantic-UI, UI Kit, Blueprint, Skelekton, pure css, gumby 
+4. Bagaimana tata cara penggunaan Bootstrap?
+Jawab : 
+-Menggunakan CDN
+-Download secara manual
+-Download dengan package manager
